@@ -3,6 +3,6 @@
 .idea/**
 
 # Folders
-out/**
+cmake-build-debug/**
 
 # Files
